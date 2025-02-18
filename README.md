@@ -12,10 +12,10 @@ Before running this script, make sure to:
    ```bash
    sudo snap remove firefox```
    
-2. **Have wget and tar installed:**
+3. **Have wget and tar installed:**
   These tools are necessary to download and extract the Firefox archive. You can install them with the following command:
 ```bash
-   sudo apt install wget tar
+sudo apt install wget tar
 ```
 3. **Have sudo privileges**:
    You need to have the ability to run commands with `sudo`. This is necessary for installing software and making changes to system directories.
@@ -34,7 +34,7 @@ Before running this script, make sure to:
   4. **Run the script:**
     Launch the script with administrative privileges:
      ```bash
-      sudo ./firefox_installer.sh```
+     sudo ./firefox_installer.sh```
 
 ## Usage
 
