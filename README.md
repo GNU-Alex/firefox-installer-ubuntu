@@ -10,7 +10,8 @@ Before running this script, make sure to:
 
 1. **Remove Snap**: If you have already installed Firefox via Snap, you need to uninstall it before using this script. Run the following command in the terminal:
    ```bash
-   sudo snap remove firefox```
+   sudo snap remove firefox
+   ```
    
 3. **Have wget and tar installed:**
   These tools are necessary to download and extract the Firefox archive. You can install them with the following command:
@@ -29,12 +30,14 @@ sudo apt install wget tar
   2. **Make the script executable:**
      Before running the script, you need to make it executable. Use the following command:
      ```bash
-     chmod +x firefox-installer.sh```
+     chmod +x firefox-installer.sh
+     ```
 
   4. **Run the script:**
     Launch the script with administrative privileges:
      ```bash
-     sudo ./firefox_installer.sh```
+     sudo ./firefox_installer.sh
+     ```
 
 ## Usage
 
