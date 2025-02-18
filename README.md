@@ -28,13 +28,13 @@ Before running this script, make sure to:
 
   2. **Make the script executable:**
      Before running the script, you need to make it executable. Use the following command:
-    bash
-    ```chmod +x firefox-installer.sh```
+     ```bash
+     chmod +x firefox-installer.sh```
 
-  3. **Run the script:**
+  4. **Run the script:**
     Launch the script with administrative privileges:
-    bash
-    ```sudo ./firefox_installer.sh```
+     ```bash
+      sudo ./firefox_installer.sh```
 
 ## Usage
 
