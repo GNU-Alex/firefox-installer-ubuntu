@@ -16,7 +16,7 @@ Before running this script, make sure to:
 3. **Have wget, curl and tar installed:**
   These tools are necessary to download and extract the Firefox archive. You can install them with the following command:
 ```bash
-sudo apt install wget tar carl
+sudo apt install wget tar curl
 ```
 3. **Have sudo privileges**:
    You need to have the ability to run commands with `sudo`. This is necessary for installing software and making changes to system directories.
