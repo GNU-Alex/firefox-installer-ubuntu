@@ -37,7 +37,7 @@ wget -q --show-progress -O $filename $Url
 echo "Download complete."
 
 # Decompressing archive.
-tar -xzvf $filename
+tar -xJvf $filename
 rm $filename
 
 # Move the uncompressed Firefox folder to /opt: 
